@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Repo Manager",
+  "description": "Manage and delete your GitHub repositories in bulk using a Personal Access Token.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
